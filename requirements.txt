@@ -1,0 +1,9 @@
+langchain
+langchain-community
+torch==2.2.1
+streamlit
+pypdf
+sentence-transformers
+faiss-cpu
+google.generativeai
+python-dotenv
